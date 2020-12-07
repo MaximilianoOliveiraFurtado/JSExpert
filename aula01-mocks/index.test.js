@@ -32,7 +32,7 @@ const { rejects, deepStrictEqual } = require('assert')
                 "birthDay": 1940
             },
             {
-                "name": "Joaozinho",
+                "name": "Joãozinho de Oliveira",
                 "id": 231,
                 "profession": "Java Developer",
                 "birthDay": 1990
