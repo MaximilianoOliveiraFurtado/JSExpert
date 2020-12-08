@@ -2,4 +2,6 @@ class Service {
 
 }
 
-;(async () => {})
+;(async () => {
+
+})()
